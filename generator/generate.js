@@ -16,6 +16,7 @@ const AFFILIATE_BOTTOM = `
   <p style="font-weight:bold;color:#92400e;margin:0 0 12px;">📚 水回りリフォームの参考書</p>
   <ul style="list-style:none;padding:0;margin:0;">
     <li><a href="https://www.amazon.co.jp/s?k=%E6%B0%B4%E5%9B%9E%E3%82%8A+%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0&linkCode=ll2&tag=mirainikibouw-22" rel="nofollow" target="_blank" style="color:#1d4ed8;text-decoration:underline;">▶ 水回りリフォーム関連書籍【Amazon】</a></li>
+    <li><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3774934&pid=892653514" rel="nofollow" style="color:#ff0033;text-decoration:underline;">▶ 水回り用品・リフォーム資材【Yahoo!ショッピング】</a><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3774934&pid=892653514" height="1" width="1" border="0" alt=""></li>
   </ul>
 </div>`;
 async function generateArticle() {
