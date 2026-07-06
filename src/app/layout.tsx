@@ -3,6 +3,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: { default: '水回りリフォームナビ | 費用・業者比較', template: '%s | 水回りリフォームナビ' },
   description: 'キッチン・お風呂・トイレ・洗面台の水回りリフォーム費用相場と業者比較。失敗しない業者の選び方を解説。',
+  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
